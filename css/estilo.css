@@ -1,0 +1,61 @@
+.container{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+ul{
+	margin: 0;
+	padding: 0;
+	color: none;
+	text-align: right;
+}
+
+ul li{
+	font-family: Montserrat;
+	display: inline;
+}
+
+a {
+	color: #fff;
+	font-size: 27px;
+}
+
+a:visited, hover{
+	color: #fff;
+}
+
+/*
+a:hover{
+	color: white;
+}*/
+
+.navegacao{
+	position: absolute;
+	width: 50%;
+	margin-top: -65%;
+	margin-left: 40.9%;
+}
+
+.data{
+	color: #fff;
+	position: absolute;
+	font-size: 36px;
+	width: 50%;
+	margin-top: -55%;
+	/*padding-left: 70.9%;*/
+	margin-left: 75%;
+}
+
+.img1{
+	position: relative;
+	width: 110%;
+	height: 90%;
+}
+
+.logo{
+	position: absolute;
+	width: 50%;
+	margin-top: -45%;
+	margin-left: 1.5%;
+}
