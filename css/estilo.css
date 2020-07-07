@@ -12,25 +12,25 @@ ul{
 }
 
 ul li{
-	font-family: Montserrat;
+	font-family: 'Montserrat', sans-serif;
 	display: inline;
 }
 
 a {
 	color: #fff;
-	font-size: 27px;
+	font-size: 23px;
 }
 
-a:visited, hover{
+a:visited{
 	color: #fff;
 }
 
-/*
 a:hover{
 	color: white;
-}*/
+}
 
 .navegacao{
+	display: inline-block;
 	position: absolute;
 	width: 50%;
 	margin-top: -65%;
@@ -42,9 +42,9 @@ a:hover{
 	position: absolute;
 	font-size: 36px;
 	width: 50%;
-	margin-top: -55%;
+	margin-top: -59%;
 	/*padding-left: 70.9%;*/
-	margin-left: 75%;
+	margin-left: 70%;
 }
 
 .img1{
@@ -58,4 +58,16 @@ a:hover{
 	width: 50%;
 	margin-top: -45%;
 	margin-left: 1.5%;
+}
+
+.data-position1{
+	margin-left: -2%;
+}
+
+.data-position2{
+	margin-left: 0%;
+}
+
+.dia{
+	font-size: 1.7em;
 }
